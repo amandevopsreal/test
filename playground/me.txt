@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aman Kumar Mishra
-Skills: HTML, CSS, JS, React.js, Next.js
-Email: aman345kumarmishra@gmail.com@gmail.com
-{{/user}}
